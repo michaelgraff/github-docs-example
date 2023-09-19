@@ -39,6 +39,7 @@ my_dog.bark()
 
 
 ## Step 2 - posting images
+![appleiie-small](https://github.com/michaelgraff/github-docs-example/assets/38571586/a684346f-3d95-492d-b054-a3c99c48b0c3)
 
 ## Step 3 - Using Github Flavored Markdown Task Lists
 
