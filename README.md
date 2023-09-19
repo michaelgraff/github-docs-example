@@ -61,7 +61,7 @@ Github Flavored Markdown (GFM) supports emoji shortcodes.<sup>[2]</sup>   Here a
 | Star | `:star:` | :star: |
 
 
-
+[Secret Window Hidden Garden](/secret-window/hidden-garden.md)
 
 ## References
 
