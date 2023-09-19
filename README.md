@@ -42,8 +42,16 @@ my_dog.bark()
 
 ## Step 3 - Using Github Flavored Markdown Task Lists
 
+GitHub extends Markdown to have a list where you can check off items.<sup>[1]</sup>
+
+- [ ] Finish Step 1
+- [ ] Finish Step 2
+- [ ] Finish Step 3
+
+
 ## References
 
 - [GFM Spec](https://github.github.com/gfm/)
 - [GFM Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- <sup>[1]</sup>[GFM Working with Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
   
