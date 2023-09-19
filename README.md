@@ -44,7 +44,7 @@ my_dog.bark()
 
 ## Step 3 - Using Github Flavored Markdown Task Lists
 
-GitHub extends Markdown to have a list where you can check off items.<sup>[1]</sup>
+GitHub extends Markdown to have a list where you can check off items.<sup>[1]</sup> 
 
 - [X] Finish Step 1
 - [ ] Finish Step 2
