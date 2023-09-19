@@ -44,9 +44,21 @@ my_dog.bark()
 
 GitHub extends Markdown to have a list where you can check off items.<sup>[1]</sup>
 
-- [ ] Finish Step 1
+- [X] Finish Step 1
 - [ ] Finish Step 2
 - [ ] Finish Step 3
+
+## Step 4 - Using Emojis (optional)
+
+Github Flavored Markdown (GFM) supports emoji shortcodes.<sup>[2]</sup>   Here are some examples.
+
+| Name | Short Code | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Àlarm Clock | `:alarm_clock:` | :alarm_clock: |
+| Star | `:star:` | :star: |
+
+
 
 
 ## References
@@ -54,4 +66,5 @@ GitHub extends Markdown to have a list where you can check off items.<sup>[1]</s
 - [GFM Spec](https://github.github.com/gfm/)
 - [GFM Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - <sup>[1]</sup>[GFM Working with Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
+- <sup>[2]</sup>[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
   
